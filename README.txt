@@ -24,3 +24,4 @@ Multi Watt Amplifier/   - KiCad Circuit schematic & PCB Gerber files for 2x10W
 10W75mmCabinet/         - FreeCAD 3D Model Design & STL files for 3D Printing
                           the Eagle L018A 10W speaker cases.
 
+
